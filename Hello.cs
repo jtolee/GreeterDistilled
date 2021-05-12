@@ -6,7 +6,7 @@ namespace HelloCode
     {
         static void Main(string[] args) 
         {
-            Console.WriteLine("Hello from vscode")
+            Console.WriteLine("Hello from vscode development")
         }
     }
 }
